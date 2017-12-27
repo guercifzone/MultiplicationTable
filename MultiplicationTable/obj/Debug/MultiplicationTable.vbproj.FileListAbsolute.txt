@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.xml
+C:\Users\admin\Desktop\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
